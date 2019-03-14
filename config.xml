@@ -3,7 +3,7 @@
     <name>Sistema de Pedidos</name>
     <description>Um estudo de caso sobre Spring Boot e Ionic</description>
     <author email="hi@ionicframework" href="http://ionicframework.com/">Luiz Rafael Puppi</author>
-    <content original-src="index.html" src="http://192.168.0.23:8100" />
+    <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
